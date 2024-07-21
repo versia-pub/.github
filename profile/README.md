@@ -30,6 +30,6 @@
 
 <br/>
 
-<center>
+<p align="center">
     <img src="../media/ipad.webp" alt="Lysand on an iPad" height="400">
-</center>
+</p>
