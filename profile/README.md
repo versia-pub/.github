@@ -23,10 +23,10 @@
 
 ### Repositories
 
-- [`lysand-org/server`](https://github.com/lysand-org/server): Versia Server, the flagship implementation of the Versia protocol.
-- [`lysand-org/docs`](https://github.com/lysand-org/docs): Documentation for the Versia Protocol.
-- [`lysand-org/api`](https://github.com/lysand-org/api): TypeScript developer SDKs for federation and client software.
-- [`lysand-org/activitypub`](https://github.com/lysand-org/activitypub): ActivityPub bridge for Versia Server.
+- [`versia-pub/server`](https://github.com/versia-pub/server): Versia Server, the flagship implementation of the Versia protocol.
+- [`versia-pub/docs`](https://github.com/versia-pub/docs): Documentation for the Versia Protocol.
+- [`versia-pub/api`](https://github.com/versia-pub/api): TypeScript developer SDKs for federation and client software.
+- [`versia-pub/activitypub`](https://github.com/versia-pub/activitypub): ActivityPub bridge for Versia Server.
 
 <br/>
 
