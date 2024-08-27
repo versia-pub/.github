@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://lysand.org"><img src="https://cdn.lysand.org/logo-long-dark.webp" alt="Lysand Logo" height="110"></a>
+  <a href="https://versia.pub"><img src="https://cdn.versia.pub/branding/versia-dark.webp" alt="Versia Logo" height="110"></a>
 </p>
 
 
@@ -23,13 +23,13 @@
 
 ### Repositories
 
-- [`lysand-org/lysand`](https://github.com/lysand-org/lysand): Lysand Server, the flagship implementation of the Lysand protocol.
-- [`lysand-org/docs`](https://github.com/lysand-org/docs): Documentation for the Lysand protocol.
+- [`lysand-org/server`](https://github.com/lysand-org/server): Versia Server, the flagship implementation of the Versia protocol.
+- [`lysand-org/docs`](https://github.com/lysand-org/docs): Documentation for the Versia Protocol.
 - [`lysand-org/api`](https://github.com/lysand-org/api): TypeScript developer SDKs for federation and client software.
-- [`lysand-org/activitypub`](https://github.com/lysand-org/activitypub): ActivityPub bridge for Lysand Server.
+- [`lysand-org/activitypub`](https://github.com/lysand-org/activitypub): ActivityPub bridge for Versia Server.
 
 <br/>
 
 <p align="center">
-    <img src="../media/ipad.webp" alt="Lysand on an iPad" height="400">
+    <img src="../media/ipad.webp" alt="Versia-FE on an iPad" height="400">
 </p>
