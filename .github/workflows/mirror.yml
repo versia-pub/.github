@@ -11,6 +11,6 @@ jobs:
           fetch-depth: 0
       - uses: yesolutions/mirror-action@master
         with:
-          REMOTE: "https://codeberg.org/${{ github.action_repository }}.git"
+          REMOTE: "https://codeberg.org/${{ github.event.repository }}.git"
           GIT_USERNAME: CPlusPatch
           GIT_PASSWORD: ${{ secrets.CODEBERG_TOKEN }}
