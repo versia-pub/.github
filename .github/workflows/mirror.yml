@@ -1,0 +1,16 @@
+on: [workflow_call]
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: yesolutions/mirror-action@master
+        with:
+          REMOTE: "https://codeberg.org/${{ github.action_repository }}.git"
+          GIT_USERNAME: CPlusPatch
+          GIT_PASSWORD: ${{ secrets.CODEBERG_TOKEN }}
